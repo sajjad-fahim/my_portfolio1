@@ -1,3 +1,40 @@
 body {
     font-family: 'Oswald', sans-serif;
+    margin: 0px;
+}
+
+.intro {
+    margin: 0px 200px 2px 0px;
+    padding: 20px;
+    text-align: justify;
+}
+
+.intro p {
+    color: blue;
+}
+
+span {
+    color: orangered;
+}
+
+section {
+    display: flex;
+}
+
+.intro img {
+    border-radius: 200px;
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgba(255, 68, 0, 0.781);
+    border: 1px solid black;
+    padding: 5px;
+    font-size: large;
+}
+
+.banner {
+    background-image: url("/images/top-banner.png");
+    background-repeat: no-repeat;
 }
