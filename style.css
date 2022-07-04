@@ -35,6 +35,28 @@ section {
 }
 
 .banner {
-    background-image: url("/images/top-banner.png");
+    background-image: url("./images/top-banner.png");
     background-repeat: no-repeat;
+}
+
+.dream-big img {
+    margin: 0px 15px 0px 100px;
+    border-radius: 200px;
+    width: 80%;
+}
+
+.banner2 {
+    background-image: url("./images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.dream-big {
+    margin: 100px 200px 2px 0px;
+    padding: 20px;
+    text-align: justify;
+}
+
+.dream-big p {
+    color: green;
 }
