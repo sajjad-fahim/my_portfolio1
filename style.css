@@ -84,3 +84,7 @@ section {
 .exp2 {
     border-left: 10px solid rgba(255, 0, 0, 0.733);
 }
+
+footer {
+    text-align: center;
+}
