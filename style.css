@@ -60,3 +60,27 @@ section {
 .dream-big p {
     color: green;
 }
+
+.experience {
+    margin-top: 200px;
+    margin-bottom: 100px;
+    display: flex;
+    background-image: url("./images/exp-bg.png");
+    background-repeat: no-repeat;
+}
+
+.exp {
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 50%;
+    text-align: center;
+    box-shadow: 10px 10px 50px green;
+    border-radius: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-left: 10px solid rgba(255, 166, 0, 0.795);
+}
+
+.exp2 {
+    border-left: 10px solid rgba(255, 0, 0, 0.733);
+}
